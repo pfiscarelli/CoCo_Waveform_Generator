@@ -1,5 +1,8 @@
 # TRS-80 Color Computer Waveform Generator (CoCoWG)
 
+![CoCo Waveform Generator](https://github.com/pfiscarelli/CoCo_Waveform_Generator/assets/30671135/a777aae9-b5f6-4652-87a8-b223c80f845e)
+
+
 ***
 ## What does CoCoWG do?
 
